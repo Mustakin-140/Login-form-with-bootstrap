@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+
+  body{
+      background-color:#576574;
+  }
+
+  .container{
+      width: 400px;
+      height: 500px;
+      background-color: #bdc3c7;
+      border-radius: 15px;
+      margin: 10% auto;
+      color: #2d3436;
+      padding: 60px;
+      transition: 0.5s;
+  }
+  
